@@ -45,7 +45,9 @@ Trilha de Engenharia
 4. **Arquitetura**
     1. serveless architecture;
     2. event driven architecture;
+    
     **Patterns**
+    
     1. clean architecture;
     2. hexagonal architecture;
 5. **Desenvolvimento de software + Qualidade**
