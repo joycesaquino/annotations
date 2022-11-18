@@ -3,7 +3,8 @@ Trilha de Engenharia
 1. **Infraestrutura**
     1. Kubernetes;
     2. Terraform;
-    3. AWS;
+    3. **Cloud Formation**;
+    4. AWS;
         1. EC2, **S3**, **Cloud Watch**,ELB, **Lambda**, **SNS**, **SQS**, **Kinesis Stream**, Well-Architected
 2. **Serviços**
     1. **Microsserviços** | **Monolito**;
