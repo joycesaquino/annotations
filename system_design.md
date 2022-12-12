@@ -45,3 +45,6 @@ Pensar no futuro é fantástico, MAS não dá pra assumir o ônus de planejar ev
 - Qual objetivo isso alcança?
 - O que para além do objetivo conseguimos abstrair dessa arquitetura ? ++
 
+
+https://github.com/karanpratapsingh/system-design
+https://www.intercom.com/blog/six-principles-of-system-design/
