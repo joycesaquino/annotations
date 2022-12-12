@@ -47,4 +47,5 @@ Pensar no futuro é fantástico, MAS não dá pra assumir o ônus de planejar ev
 
 
 https://github.com/karanpratapsingh/system-design
+
 https://www.intercom.com/blog/six-principles-of-system-design/
