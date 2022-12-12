@@ -38,6 +38,8 @@ Pensar no futuro é fantástico, MAS não dá pra assumir o ônus de planejar ev
 
 **Processo de desenvolvimento da Arquitetura**
 
+**Custo**
+
 - Quais são os principais elementos ou objetos do sistema?
 - Como os elementos estão conectados? Quais são as relações? Quais são suas entradas e saídas?
 - Qual objetivo isso alcança?
