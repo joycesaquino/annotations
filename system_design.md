@@ -65,3 +65,4 @@ Refs.
 - https://github.com/karanpratapsingh/system-design
 - https://www.intercom.com/blog/six-principles-of-system-design/
 - https://roadmap.sh/software-design-architecture
+- http://blog.askm.com.br/2019/02/12/metodologia-dos-12-fatores/
