@@ -28,11 +28,27 @@ Pensar no futuro é fantástico, MAS não dá pra assumir o ônus de planejar ev
 
 **Separe responsabilidades**
 
+Para exemplificar
+
+Responsabilidade: Dever de responder pelo próprio comportamento.
+
+Quando segregamos responsabilidades, naturalmente simplificamos nossos serviços, funções e componentes. Simplificar implica em usar menos esforço cognitivo para manutenção, menos complexidade para mudanças e consequentemente menor possibilidade de novos bugs surgirem com a evolução do código.
+
+
 **Pense em desacoplamento**
+
+
 
 **Se preocupe com escala**
 
-**Escolha bem a forma como vai armazenar deus dados**
+Na concepção do desenho da solução, na modelagem de dados, na entrega de cada componente da arquitetura.
+
+- Ferramentas de teste de carga
+  - Apache Banchmark : https://www.tutorialspoint.com/apache_bench/apache_bench_quick_guide.htm
+  - K6 : https://k6.io/
+  - Predator : https://zooz.github.io/predator/myfirsttest.html
+
+**Escolha bem a onde e como vai armazenar deus dados**
 
 **Observabilidade, Monitoria e Tracking**
 
