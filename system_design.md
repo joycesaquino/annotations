@@ -27,7 +27,7 @@ Não adicionar complexidade desnecessária para resolver problemas hipotéticos 
 Pensar no futuro é fantástico, MAS não dá pra assumir o ônus de planejar eventualidades que podem nem acontecer, cuidado para não cair na paralisia do planejamento.
 
 
-## Provavelmente você já ouviu falar em alta coesão e baixo desacoplamento.
+## Provavelmente você já ouviu falar em alta coesão e baixo acoplamento.
 
 
 **Separe responsabilidades**
