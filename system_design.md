@@ -26,7 +26,13 @@ Mantenha o mais simples possível para resolver os problemas do **HOJE**.
 Não adicionar complexidade desnecessária para resolver problemas hipotéticos que possamos enfrentar em um futuro distante. 
 Pensar no futuro é fantástico, MAS não dá pra assumir o ônus de planejar eventualidades que podem nem acontecer, cuidado para não cair na paralisia do planejamento.
 
+
+## Provavelmente você já ouviu falar em Alta coesão e baixo desacoplamento.
+
+
 **Separe responsabilidades**
+- Alta coesão está muito ligado ao princípio da responsabilidade única.
+Um objeto é coeso quando faz exatamente o que se propõe, sem ir além disso.
 
 Para exemplificar
 
@@ -37,6 +43,7 @@ Quando segregamos responsabilidades, naturalmente simplificamos nossos serviços
 
 **Pense em desacoplamento**
 
+Alta coesão está 
 
 
 **Se preocupe com escala**
@@ -50,9 +57,24 @@ Na concepção do desenho da solução, na modelagem de dados, na entrega de cad
 
 **Escolha bem a onde e como vai armazenar deus dados**
 
-**Observabilidade, Monitoria e Tracking**
+
+...
+
 
 **Processo de desenvolvimento da Arquitetura**
+
+1. CODEBASE = “Código fonte gerenciado por um controle de revisão e diversos ‘deploys’.”
+2. DEPENDENCIAS = “Declarar e isolar dependências explicitamente.”
+3. CONFIGURAÇÃO = “Armazenar a configuração no ambiente”.
+4. BACKING SERVICES = “Tratar serviços de apoio como recursos anexos”.
+5. BUILD, RELEASE AND RUN = “Separar completamente etapas de construção e execução”.
+6. CONCORRÊNCIA = “Dimensionar a aplicação através de um modelo de processo”
+7. DISPONIBILIDADE = “Tornar o sistema mais robusto com inicialização rápida e finalização elegante”.
+8. PARIDADE DE AMBIENTES = “Manter os ambientes de desenvolvimento, testes e produção mais parecidos possíveis”.
+9. LOGS = “Tratar logs como um fluxo de eventos”.
+10. AMBIENTES MONITORADOS = “Observabilidade, Monitoria e Tracking”
+
+
 
 **Custo**
 
