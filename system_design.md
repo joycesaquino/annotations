@@ -43,7 +43,12 @@ Quando segregamos responsabilidades, naturalmente simplificamos nossos serviços
 
 **Pense em desacoplamento**
 
-Alta coesão está 
+Em aspecto global acoplamento é o grau de dependência entre dois "artefatos". Onde artefatos podem ser entidades, métodos, componente, tabelas, sistemas e por ai vai.
+
+O baixo acoplamento é frequentemente um sinal de um sistema de computador bem estruturado e de um bom design, e quando combinado com alta coesão, suporta os objetivos gerais de alta **legibilidade** e **facilidade de manutenção**.
+
+https://aws.amazon.com/pt/microservices/
+
 
 
 **Se preocupe com escala**
@@ -71,9 +76,7 @@ Na concepção do desenho da solução, na modelagem de dados, na entrega de cad
 6. CONCORRÊNCIA = “Dimensionar a aplicação através de um modelo de processo”
 7. DISPONIBILIDADE = “Tornar o sistema mais robusto com inicialização rápida e finalização elegante”.
 8. PARIDADE DE AMBIENTES = “Manter os ambientes de desenvolvimento, testes e produção mais parecidos possíveis”.
-9. LOGS = “Tratar logs como um fluxo de eventos”.
-10. AMBIENTES MONITORADOS = “Observabilidade, Monitoria e Tracking”
-
+9. OBSERVABILIDADE = “Logs, Métricas e Traces/Tracking”.
 
 
 **Custo**
